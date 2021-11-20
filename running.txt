@@ -1,0 +1,6 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS               NAMES
+9c63d68f994c        designapp           "/bin/sh -c 'python3…"   11 minutes ago      Exited (1) 2 minutes ago                       designapprunning
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+9193b1701617        designapp           "/bin/sh -c 'python3…"   48 seconds ago      Exited (1) 47 seconds ago                       designapprunning
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+9193b1701617        designapp           "/bin/sh -c 'python3…"   10 minutes ago      Exited (1) 10 minutes ago                       designapprunning
